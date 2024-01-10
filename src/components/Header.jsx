@@ -16,11 +16,11 @@ const Header = () => {
           </div>
           <p className="text-xs my-4">Also Available On</p>
           <div className="flex space-x-4 items-center"> 
-            <img className="w-[32px]" src="/public/images/flipkart.png" alt="" />
-            <img className="w-[32px]" src="/public/images/amazon.png" alt="" />
+            <img className="w-[32px]" src="/src/assets/flipkart.png" alt="" />
+            <img className="w-[32px]" src="/src/assets/amazon.png" alt="" />
           </div>
         </div>
-        <div className="flex justify-center items-center"><img src="/public/images/shoe_image.png" alt="" /></div>
+        <div className="flex justify-center items-center"><img src="/src/assets/shoe_image.png" alt="" /></div>
       </div>
     </div>
   );

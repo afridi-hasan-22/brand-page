@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <nav className="flex justify-between items-center w-[85%] mx-auto py-5">
         <div className="logo ">
-            <img src="/images/brand_logo.png" alt="" />
+            <img src="/src/assets/brand_logo.png" alt="" />
         </div>
         <ul className="flex space-x-6 font-bold">
             <li href='#'>Menu</li>
